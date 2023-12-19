@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **AI Algorithms**
 
-- 💬 Ask me about **Web technologies**
-
 - 📫 How to reach me **poudelsudarshan650@gmail.com**
 
 - ⚡ Fun fact **I love Chess**
