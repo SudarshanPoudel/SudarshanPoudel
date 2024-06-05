@@ -7,9 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudarshanpoudel&label=Profile%20views&color=0e75b6&style=flat" alt="sudarshanpoudel" /> </p>
 
-- 🔭 I’m currently working on **My own chess bot.**
-
-- 🌱 I’m currently learning **AI Algorithms**
+- 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **contactsudarshanpoudel@gmail.com**
 
