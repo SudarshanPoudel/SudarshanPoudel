@@ -9,13 +9,12 @@
 
 - 🌱 I’m currently learning **AI/ML/NLP**
 
-- 👨‍💻 All of my projects are available at [https://sudarshanpoudel.github.io/Portfolio/](https://sudarshanpoudel.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [sudarshanpoudel.github.io](https://sudarshanpoudel.github.io/)
 
 - 📫 How to reach me **mailto.supo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sudarshan_pdl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudarshan_pdl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sudarshan-poudel-ml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudarshan-poudel-ml" height="30" width="40" /></a>
 <a href="https://instagram.com/sudarshan_pdl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudarshan_pdl" height="30" width="40" /></a>
 </p>
